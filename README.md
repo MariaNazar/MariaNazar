@@ -1,6 +1,6 @@
 
 <img src="https://github.com/MariaNazar/MariaNazar/raw/main/Maria%20Nazar%C3%A9.gif" width="970" height="250"/>
-## Hey there, I'm Maria👋
+##Hey there, I'm Maria👋
 
 
 
