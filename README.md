@@ -5,12 +5,6 @@
 - 🌱 I’m currently learning Full Stack Developer at <a href="https://brazil.generation.org/"> Generation Brasil </a> 
 - 👯 I’m looking to collaborate on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maria-nazar%C3%A9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
 
 
 <!--
