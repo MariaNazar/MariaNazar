@@ -1,26 +1,34 @@
 
-<img src="https://github.com/MariaNazar/MariaNazar/raw/main/Maria%20Nazar%C3%A9.gif" width="970" height="250"/>
-<h2>Hey there, I'm Maria👋</h2>
+🔍 Quality Assurance Engineer | Automation Tester | 2 Years of Experience
 
-- 🌱 I’m currently learning Full Stack Developer at <a href="https://brazil.generation.org/"> Generation Brasil </a> 
-- 👯 I’m looking to collaborate on Project <a href="https://github.com/athosgpm/ProjetoIntegrador_findYourHelp">FindYourHelp</a>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/maria-nazar%C3%A9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-- ⚡ Hard Skills: 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fLAT&logo=javascript&logoColor=black">
+👋 Hello, I'm Maria, a detail-oriented Quality Assurance Engineer with 2 years of experience in software testing and test automation. I am passionate about ensuring the delivery of high-quality software products that meet customer expectations.
 
-- :heart: Soft Skills: <img src="https://img.shields.io/badge/Proactivity-F0E838?style=fLAT"/><img src="https://img.shields.io/badge/Communication-FA94DE?style=fLAT"/><img src="https://img.shields.io/badge/Leadership-55ADFA?style=fLAT"/><img src="https://img.shields.io/badge/Persistence-95F07C?style=fLAT"/><img src="https://img.shields.io/badge/Ethic-A764E0?style=fLAT"/>
+🔬 Expertise:
+- Manual and Automated Testing
+- Test Planning and Execution
+- Defect Tracking and Management
+- Regression and Functional Testing
+- Test Case Design and Documentation
+- Cross-Browser and Cross-Platform Testing
+- API Testing
+- Basic Knowledge of Cypress and Selenium Automation
 
-<!--
-**MariaNazar/MariaNazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪 Key Skills:
+- Strong understanding of software development life cycle (SDLC) and testing methodologies
+- Proficient in test case creation, test execution, and defect reporting
+- Experience in identifying, documenting, and tracking software defects
+- Familiarity with Agile/Scrum methodologies and continuous integration/continuous delivery (CI/CD) pipelines
+- Excellent problem-solving and analytical skills
+- Effective communication and collaboration with cross-functional teams
 
-Here are some ideas to get you started:
+🛠️ Tools and Technologies:
+- Tools: AndroidStudio, Simulator (IOS)
+- Test Management Tools: Jira
+- Automation Tools: Cypress, Selenium
+- Version Control: Git
+- Defect Tracking: Bugzilla, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always eager to learn and explore new technologies, I am currently focusing on enhancing my automation skills with Cypress and Selenium. I am eager to contribute to a dynamic development team where I can apply my QA expertise and help deliver top-notch software products.
+
+
+#QualityAssurance #AutomationTesting #SoftwareTesting #Cypress #Selenium #Agile #SDLC
